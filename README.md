@@ -13,4 +13,4 @@
 食用方法：
 
 双击 或命令行运行
-```java -jar converter.jar```
+```java -jar LitematicaConverter.jar```
